@@ -1,2 +1,2 @@
 # Amalthea-docs
-Official dosc of Amalthea CPU architecture
+Official doсы of Amalthea CPU architecture
